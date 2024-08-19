@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "289570947382",
+    "project_id": "blockerplus-6ba24",
+    "storage_bucket": "blockerplus-6ba24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289570947382:android:61aa670e06c022b537b397",
+        "android_client_info": {
+          "package_name": "com.blockerplus.blockerplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289570947382-2q8u0oajialu8sti4hkj5h7f3t23rsj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blockerplus.blockerplus",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "289570947382-0kgoqsugu970f8p052bh20lj31bt8eea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARTarQSsbeECSRBrU7CpeuxV5j_MAYP-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289570947382-0kgoqsugu970f8p052bh20lj31bt8eea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

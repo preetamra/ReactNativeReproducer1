@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#01060C"
+    android:gravity="center_vertical"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    >
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="50dp"
+        android:src="@drawable/play_store_512"
+        android:background="@drawable/rounded_corners"
+        android:clipToOutline="true"
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Sample Text"
+        android:textColor="#FFF"
+        android:textSize="25dp"
+        />
+    <TextView
+        android:id="@+id/blockedText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView"
+        android:layout_centerHorizontal="true"
+        android:textColor="#A39696"
+        android:textSize="20dp"
+        android:layout_marginTop="26dp"/>
+    <TextView
+        android:id="@+id/TrackerPlusText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/blockedText"
+        android:layout_centerHorizontal="true"
+        android:textColor="#2B55B5"
+        android:textSize="20dp"
+        android:layout_marginTop="36dp"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:textFontWeight="500"
+        />
+
+    <Button
+        android:id="@+id/closeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFF"
+        android:background="#00000000"
+        android:textSize="20dp"
+        android:layout_margin="35dp"
+        android:text="X  Close" />
+</RelativeLayout>

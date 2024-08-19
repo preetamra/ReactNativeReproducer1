@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/xml_blockingservice.xml.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/xml/blockingservice.xml"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-mdpi_bootsplash_logo.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-mdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/raw_animation.json.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/raw/animation.json"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xxhdpi_bootsplash_logo.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/drawable_custom_progress_bg.xml.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/drawable/custom_progress_bg.xml"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/layout_blockscreen.xml.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/layout/blockscreen.xml"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/raw_porn_1.txt.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/raw/porn_1.txt"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/layout_uninstall_reason.xml.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/layout/uninstall_reason.xml"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/drawable_rounded_corner_background.xml.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/drawable/rounded_corner_background.xml"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/layout_notification_activity.xml.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/layout/notification_activity.xml"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xxxhdpi_bootsplash_logo.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xxxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/xml_device_admin.xml.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/xml/device_admin.xml"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/raw_test.txt.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/raw/test.txt"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/drawable_rounded_corners.xml.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/drawable/rounded_corners.xml"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xhdpi_bootsplash_logo.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/drawable_shield.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/drawable/shield.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/drawable_rounded_button_background.xml.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/drawable/rounded_button_background.xml"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/drawable_play_store_512.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/drawable/play_store_512.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/raw_porn_2.txt.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/raw/porn_2.txt"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/layout_ad_layout.xml.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/layout/ad_layout.xml"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/layout_launch_screen.xml.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/raw_porn_0.txt.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/raw/porn_0.txt"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-hdpi_bootsplash_logo.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-hdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.blockerplus.blockerplus.app-debug-34:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.blockerplus.blockerplus.app-main-36:/mipmap-mdpi/ic_launcher_background.png"
+    }
+]
